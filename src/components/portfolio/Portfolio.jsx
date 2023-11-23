@@ -1,31 +1,72 @@
 import React from "react";
-import portfolio1 from "../../assets/portfolio5.png";
-import portfolio2 from "../../assets/portfolio3.jpg";
-import portfolio3 from "../../assets/portfolio1.jpg";
+import PMP from "../../assets/PMP.png";
+import AEDMS from "../../assets/AEDMS.png";
+import NTU from "../../assets/NTU.png";
+import Twok from "../../assets/2k.png";
+import Genihunt from "../../assets/Genihunt.png";
+import DRUM from "../../assets/DRUM.png";
+import Shopping from "../../assets/Shopping.png";
+import Ecowas from "../../assets/Ecowas.png";
 
 import "./portfolio.css";
 
 const data = [
   {
     id: 1,
-    image: portfolio1,
-    title: "Ecowas Phase 1",
-    github: "https://github.com/Emiqbal11/React-Crud-App",
-    demo: "https://phenomenal-crepe-d8fd7f.netlify.app",
+    image: PMP,
+    title: "PMPU-(Ukraine)",
+    github: "https://github.com/K2X-Tech/pmp-ukraine-user-frontend",
+    demo: "https://pmp-backend.cloud-squarex.com/login",
   },
   {
     id: 2,
-    image: portfolio2,
-    title: "Crud App",
-    github: "https://github.com/Emiqbal11/React-Crud-App",
-    demo: "https://phenomenal-crepe-d8fd7f.netlify.app",
+    image: AEDMS,
+    title: "AEDMS",
+    github: "https://github.com/Iqbalhassan-1/confidentional",
+    demo: "http://54.195.9.195:3000/",
   },
   {
     id: 3,
-    image: portfolio3,
-    title: "Crud App",
+    image: NTU,
+    title: "NTU-International",
+    github: "https://github.com/Iqbalhassan-1/confidentional",
+    demo: "https://pmp.ntu.eu/login",
+  },
+  {
+    id: 4,
+    image: Ecowas,
+    title: "Ecowas",
+    github: "https://github.com/Iqbalhassan-1/confidentional",
+    demo: "https://sankey.ecowas.int/public",
+  },
+  {
+    id: 5,
+    image: Genihunt,
+    title: "Genihunt",
+    github: "https://github.com/Iqbalhassan-1/confidentional",
+    demo: "http://genihunt-build.s3-website-eu-west-1.amazonaws.com/",
+  },
+
+  {
+    id: 6,
+    image: Twok,
+    title: "2k-Unity-App",
+    github: "https://github.com/Iqbalhassan-1/2k-unity",
+    demo: "https://2k-unity-app.netlify.app/",
+  },
+  {
+    id: 7,
+    image: Shopping,
+    title: "Shopping App",
+    github: "https://github.com/Iqbalhassan-1/shopping-app",
+    demo: "https://shopping-apps.netlify.app/",
+  },
+  {
+    id: 8,
+    image: DRUM,
+    title: "Javascript Drum",
     github: "https://github.com/Emiqbal11/React-Crud-App",
-    demo: "https://phenomenal-crepe-d8fd7f.netlify.app",
+    demo: "https://javascript-drumm.netlify.app/",
   },
 ];
 

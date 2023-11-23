@@ -10,7 +10,7 @@ const Header = () => {
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Iqbal Hassan</h1>
-        <h5 className="text-light">Front-End-Developer</h5>
+        <h5 className="text-light">FRONT-END-(REACT-JS)-DEVELOPER</h5>
         <CTA />
         <HeaderSocials />
         <div className="me">

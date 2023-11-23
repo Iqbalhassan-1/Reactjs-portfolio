@@ -36,11 +36,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am an experienced front-end developer with expertise in ReactJS,
-            delivering responsive and interactive user interfaces. With over a
-            year of experience, I have honed my skills in building exceptional
-            user experiences. My passion lies in creating visually appealing and
-            highly functional web applications.
+            As a Front-end React Developer, I'm dedicated to crafting dynamic
+            and responsive interfaces using React.js. Leveraging my solid
+            front-end foundation, I collaborate with senior peers to integrate
+            features, emphasizing modular and maintainable code. My proactive
+            stance includes active participation in team discussions, code
+            reviews, and staying current with industry standards. I aspire to
+            contribute significantly to creating seamless and engaging web apps,
+            continually honing my skills in React development, which includes
+            effective management of Redux API calls.s.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
